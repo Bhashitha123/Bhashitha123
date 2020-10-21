@@ -69,7 +69,7 @@
 
 ---
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
+  
   
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#259](https://github.com/florinpop17/app-ideas/pull/259) in [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
@@ -82,7 +82,7 @@
 </details>
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
