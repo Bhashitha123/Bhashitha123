@@ -68,7 +68,7 @@
 ➡️ [more blog posts...]()
 
 ---
-<details>
+
   
   
 <!--START_SECTION:activity-->
@@ -81,7 +81,7 @@
 
 </details>
 
-<details>
+
   
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
