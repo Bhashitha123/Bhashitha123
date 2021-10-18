@@ -1,5 +1,4 @@
 ### Hi there, I'm Bhashitha Adithya - GithubID [Bhashitha123][website] 👋
-<img src="https://user-images.githubusercontent.com/49369577/97047278-562d0200-1596-11eb-8a4f-656b2acf2b6a.gif" alt="👋 Hi there! I'm Bhashitha Adithya" title="👋 Hi there! I'm Bhashitha Adithya"/>
 
 [![Website](https://img.shields.io/website?label=Bhashiya.com&style=for-the-badge&url=https%3A%2F%2FBhashiya.com)]()
 [![Twitter Follow](https://img.shields.io/twitter/follow/BhashithaAdith1?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FBhashithaAdith1&screen_name=BhashithaAdith1)
