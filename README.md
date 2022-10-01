@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 Founder of iTech.lk
 - ⚡ Hardcore Apple Lover
-- 📫 Reach me at **bhashitha098@hotmail.com**
+- 📫 Reach me at **bhashiya@pm.me**
 
 ### Spotify Playing 🎧
 
